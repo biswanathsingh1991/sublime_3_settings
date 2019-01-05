@@ -1,0 +1,12 @@
+// These settings override both User and Default settings for the Python syntax
+{
+	
+	"font_size": 12,
+	"tab_size": 4,
+	"auto_indent": true,
+	"smart_indent": true,
+	"tab_completion": true,
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+	"trim_trailing_white_space_on_save": true
+}
